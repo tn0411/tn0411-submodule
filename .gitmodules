@@ -1,0 +1,3 @@
+[submodule "githubteacher-source"]
+	path = githubteacher-source
+	url = https://github.com/githubteacher/githubteacher-submodule.git
